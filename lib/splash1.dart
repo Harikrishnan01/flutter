@@ -35,7 +35,7 @@ class _splashscState extends State<splashsc> {
               width: 75,
             ),
             Text(
-              'Etlab',
+              'ETLAB',
               style:
                   GoogleFonts.roboto(fontSize: 50, fontWeight: FontWeight.w600),
             ),

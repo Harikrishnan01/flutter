@@ -1,4 +1,6 @@
+import 'package:etlab1/attendence.dart';
 import 'package:etlab1/home.dart';
+import 'package:etlab1/login.dart';
 import 'package:etlab1/splash.dart';
 import 'package:etlab1/splash1.dart';
 import 'package:flutter/material.dart';
